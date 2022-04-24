@@ -3,6 +3,10 @@ h1 {
     padding: 12px 0;
 }
 
+p {
+    font-size: 14px;
+}
+
 #top-bg {
     background-image: url(images/BG-images/bg-top.jpg);
     width: 100%;
@@ -27,6 +31,17 @@ h1 {
     color: white !important;
 }
 
+a:hover {
+    color: #8b2a20 !important;
+}
+
+
+/* About  */
+#yt-video {
+    width: 100%;
+    height: 264px;
+}
+
 /* management_committee */
 
 
@@ -39,4 +54,19 @@ h1 {
 .mc-h6 {
     text-align: center;
     padding: 7px 0;
+}
+
+/* SEVAS */
+
+.tr-bg {
+    background-color: #e16b014f;
+}
+
+/* Donation */
+
+#donation {
+    background-image: url("images/BG-images/bg-img0.png");
+    background-repeat: round;
+    color: white;
+    text-align: end;
 }
