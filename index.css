@@ -34,8 +34,9 @@ p {
 
 .top-headers {
     color: #ebad1c;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     text-align: center;
+    font-family: fantasy;
 }
 
 /* Nav  */
