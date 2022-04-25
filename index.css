@@ -1,10 +1,22 @@
 h1 {
     text-align: center;
     padding: 12px 0;
+    color: #c18c00;
+}
+
+h3,
+h4 {
+    color: #c18c00;
 }
 
 p {
     font-size: 14px;
+}
+
+.btn {
+    background: linear-gradient(45deg, #d81c02, #ff9501);
+    border-radius: 40px;
+    font-size: 12px;
 }
 
 #top-bg {
@@ -69,4 +81,38 @@ a:hover {
     background-repeat: round;
     color: white;
     text-align: end;
+}
+
+
+/* Appeal  */
+
+.appeal-btn {
+    background-color: #800000;
+    height: 30px;
+    color: whitesmoke;
+}
+
+
+/* RENOVATION COMMITTEE */
+
+
+/* CONTACT (FOOTER) */
+
+footer {
+    background-color: #8c2d22;
+}
+
+.ft-div {
+    background-color: #8c2d22;
+}
+
+
+
+.ft-div a {
+    color: white;
+    text-decoration: none;
+}
+
+#copy-a {
+    color: #c18c00;
 }
