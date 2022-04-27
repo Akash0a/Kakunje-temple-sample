@@ -13,6 +13,10 @@ p {
     font-size: 14px;
 }
 
+.text-justify {
+    text-align: justify;
+}
+
 .btn {
     background: linear-gradient(45deg, #d81c02, #ff9501);
     border-radius: 40px;
@@ -79,6 +83,11 @@ a:hover {
 
 .tr-bg {
     background-color: #e16b014f;
+}
+
+#th-color {
+    background-color: #b22727;
+    color: whitesmoke;
 }
 
 /* Donation */
@@ -153,6 +162,16 @@ footer {
 
 
 @media only screen and (max-width: 500px) {
+
+    #top-bg {
+
+        height: 175px;
+    }
+
+    .top-headers {
+        font-size: 1.3rem;
+    }
+
     .carousel-img {
         height: 300px;
     }
